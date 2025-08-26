@@ -58,11 +58,11 @@
 ---
 
 ## 📈 GitHub Stats
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=harshala334&theme=react&hide_border=false&border_radius=10" alt="GitHub Streak"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=harshala334&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshala334&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshala334&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshala334&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" height="200"/>
 </div>
+
 
 ---
 
