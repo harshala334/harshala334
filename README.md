@@ -9,7 +9,7 @@
 ## 💼 Experience
 -  **Software Engineering Intern @ Google (May 2025 – July 2025)**  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="60" />
   - Engineered a self-service portal for AlloyDB vector search performance benchmarking.  
-  - Built analytical dashboards for performance comparison & deployed on GCP with Uberproxy.  
+  - Built analytical dashboards for performance comparison & deployed on GCP.  
   - Improved adoption efficiency by **35%** and boosted productivity by **45%**.  
 
 
